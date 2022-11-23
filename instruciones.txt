@@ -1,0 +1,2 @@
+1- hacer fork del proyecto
+2- En el archivo index.html, encontrar una tabla, debe agregar su  nombre, apellido y nombre de usuario de GitHub
